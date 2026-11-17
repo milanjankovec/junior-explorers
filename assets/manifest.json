@@ -1,0 +1,832 @@
+[
+  {
+    "file": "explorers-hero.webp",
+    "width": 1440,
+    "height": 628
+  },
+  {
+    "file": "categories/coding.svg",
+    "width": 24,
+    "height": 24
+  },
+  {
+    "file": "categories/logic.svg",
+    "width": 24,
+    "height": 24
+  },
+  {
+    "file": "categories/math.svg",
+    "width": 24,
+    "height": 24
+  },
+  {
+    "file": "categories/language.svg",
+    "width": 24,
+    "height": 24
+  },
+  {
+    "file": "categories/nature.svg",
+    "width": 24,
+    "height": 24
+  },
+  {
+    "file": "categories/creative.svg",
+    "width": 24,
+    "height": 24
+  },
+  {
+    "file": "games/robot-maze.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/smart-memory.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/eco-sort.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/secret-code.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/tangram.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/story-sequence.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/math-pixel-art.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/animal-food.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/pattern-builder.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/treasure-coordinates.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/clock-master.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/little-shop.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/picture-sudoku.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/spaceship-repair.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/word-search.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/debug-the-robot.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/life-cycles.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/logic-detective.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/weather-lab.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/symmetry-studio.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/story-studio.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/number-pyramids.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/rhythm-master.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/river-crossing.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/island-bridges.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/parking-puzzle.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/one-stroke.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/light-maze.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/balance-scales.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/pizza-fractions.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/garden-fence.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/calendar-quest.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/trip-planner.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/syllable-workshop.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/read-and-draw.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/forest-tracks.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/garden-experiment.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/traffic-program.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/picture-graphs.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/cube-builder.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/measurement-workshop.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/tens-factory.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/number-elevator.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/nonograms.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/campsite-tents.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/shadow-playground.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/magnet-workshop.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/rain-flow.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/rhyme-pairs.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/picture-crossword.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/scene-changes.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/water-jugs.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/multiplication-arrays.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/cube-nets.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/property-circles.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/word-ladder.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/sentence-builder.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/musical-steps.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/float-or-sink.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/day-and-night.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/light-a-bulb.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/chance-bag.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/snack-buffet.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/event-house.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/seed-counter.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/stamp-printer.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/parallel-workshop.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/sorting-line.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/ticket-machine.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/frame-animation.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/layered-landscape.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/stamp-patterns.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/paper-puppets.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/expedition-badge.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "games/colour-lab.svg",
+    "width": 320,
+    "height": 154
+  },
+  {
+    "file": "compass.svg",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "file": "mascot-curious.svg",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "file": "mascot-happy.svg",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "file": "catalog/coding.webp",
+    "width": 384,
+    "height": 384
+  },
+  {
+    "file": "catalog/logic.webp",
+    "width": 384,
+    "height": 384
+  },
+  {
+    "file": "catalog/math.webp",
+    "width": 384,
+    "height": 384
+  },
+  {
+    "file": "catalog/language.webp",
+    "width": 384,
+    "height": 384
+  },
+  {
+    "file": "catalog/nature.webp",
+    "width": 384,
+    "height": 384
+  },
+  {
+    "file": "catalog/creative.webp",
+    "width": 384,
+    "height": 384
+  },
+  {
+    "file": "games/animal-food.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/balance-scales.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/calendar-quest.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/campsite-tents.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/chance-bag.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/clock-master.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/colour-lab.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/cube-builder.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/cube-nets.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/day-and-night.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/debug-the-robot.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/eco-sort.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/event-house.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/expedition-badge.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/float-or-sink.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/forest-tracks.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/frame-animation.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/garden-experiment.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/garden-fence.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/island-bridges.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/layered-landscape.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/life-cycles.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/light-a-bulb.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/light-maze.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/little-shop.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/logic-detective.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/magnet-workshop.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/math-pixel-art.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/measurement-workshop.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/multiplication-arrays.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/musical-steps.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/nonograms.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/number-elevator.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/number-pyramids.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/one-stroke.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/paper-puppets.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/parallel-workshop.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/parking-puzzle.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/pattern-builder.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/picture-crossword.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/picture-graphs.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/picture-sudoku.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/pizza-fractions.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/property-circles.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/rain-flow.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/read-and-draw.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/rhyme-pairs.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/rhythm-master.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/river-crossing.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/robot-maze.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/scene-changes.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/secret-code.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/seed-counter.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/sentence-builder.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/shadow-playground.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/smart-memory.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/snack-buffet.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/sorting-line.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/spaceship-repair.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/stamp-patterns.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/stamp-printer.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/story-sequence.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/story-studio.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/syllable-workshop.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/symmetry-studio.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/tangram.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/tens-factory.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/ticket-machine.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/traffic-program.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/treasure-coordinates.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/trip-planner.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/water-jugs.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/weather-lab.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/word-ladder.webp",
+    "width": 640,
+    "height": 360
+  },
+  {
+    "file": "games/word-search.webp",
+    "width": 640,
+    "height": 360
+  }
+]
